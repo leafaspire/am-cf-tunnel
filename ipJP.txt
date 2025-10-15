@@ -2,4 +2,7 @@
 www.4chan.org
 www.okcupid.com
 www.glassdoor.com
-www.iakeys.com#教程样例不作维护
+57.180.160.60:443#yxjp-01
+52.68.134.190:443#yxjp-02
+54.238.67.66:443#yxjp-03
+52.68.134.190:443#yxjp-04
