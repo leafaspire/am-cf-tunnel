@@ -1,11 +1,10 @@
 wto.org#am_clubs 数字套利
 icook.hk#am_clubs TG群
-time.is#amclubs GitHub仓库
 www.okcupid.com#www.okcupid.com
 www.glassdoor.com#www.glassdoor.com
-pranab.ns.cloudflare.com#pranab.ns.cloudflare.com
+www.whatismyip.com#www.whatismyip.com
 time.is#time.is
+pranab.ns.cloudflare.com#pranab.ns.cloudflare.com
 braden.ns.cloudflare.com#braden.ns.cloudflare.com
 trevor.ns.cloudflare.com#trevor.ns.cloudflare.com
-www.whatismyip.com#www.whatismyip.com
 craig.ns.cloudflare.com#craig.ns.cloudflare.com
